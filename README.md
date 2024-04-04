@@ -104,8 +104,9 @@ if(NUM_LOOPS>=10)    {
 	    }}
 	    break;
     }
-    return 0;}
-    ```
+    return 0;
+}
+```
 
 
 ## OUTPUT:
